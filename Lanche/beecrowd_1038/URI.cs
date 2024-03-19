@@ -1,4 +1,4 @@
-﻿namespace Lanche;
+﻿namespace beecrowd_1038;
 
 using System; 
 
